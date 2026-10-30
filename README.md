@@ -15,4 +15,5 @@
 | [0182-duplicate-emails](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0183-customers-who-never-order/) | Easy |
 | [0584-find-customer-referee](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 <!---LeetCode Topics End-->
