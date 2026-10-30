@@ -17,4 +17,5 @@
 | [0584-find-customer-referee](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0607-sales-person](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0607-sales-person/) | Easy |
+| [0610-triangle-judgement](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
