@@ -19,4 +19,5 @@
 | [0607-sales-person](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Ivan31122003/leetcode-practice/tree/main/MySQL/Easy/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
