@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Medium/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Medium/0177-nth-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0183-customers-who-never-order/) | Easy |
