@@ -26,4 +26,5 @@
 | [0620-not-boring-movies](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1075-project-employees-i](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/1075-project-employees-i/) | Easy |
 <!---LeetCode Topics End-->
