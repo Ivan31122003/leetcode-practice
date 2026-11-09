@@ -29,4 +29,16 @@
 | [1068-product-sales-analysis-i](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Ivan31122003/leetcode-practice/tree/main/PostgreSQL/Easy/1084-sales-analysis-iii/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Ivan31122003/leetcode-practice/tree/main/JavaScript/Easy/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Ivan31122003/leetcode-practice/tree/main/JavaScript/Easy/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Ivan31122003/leetcode-practice/tree/main/JavaScript/Easy/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
